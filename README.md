@@ -77,8 +77,7 @@ Los datos son de acceso público y se descargaron directamente desde el portal o
 
 | Categoría | Distrito | Detalle |
 |---|---|---|
-| 🏆 Líder absoluto | Lurigancho | 97.2% promedio, 100% en 2025 |
-| ⚠️ Único crítico | Pachacamac | 71.4% promedio, nunca superó 80% |
+| 🏆 Líder absoluto | Lurigancho (Chosica) | 97.2% promedio, 100% en 2025 — no confundir con San Juan de Lurigancho, que es un distrito distinto || ⚠️ Único crítico | Pachacamac | 71.4% promedio, nunca superó 80% |
 | 📈 Mayor mejora | Villa María del Triunfo | +38.8 puntos entre 2023 y 2025 |
 | ❗ Paradoja | San Isidro | Mayor presupuesto de Lima, solo 75.4% de ejecución |
 
